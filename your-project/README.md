@@ -1,9 +1,9 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of Your Project
-*[Your Name]*
+# TIC-TAC-TOE
+*Samuel Simeone y Wilmailys Garrido*
 
-*[Your Cohort, Campus & Date]*
+*DAFT-MX-2021/9/6*
 
 ## Content
 - [Project Description](#project-description)
@@ -13,22 +13,22 @@
 - [Links](#links)
 
 ## Project Description
-Write a short description of your project. Write 1-2 sentences about what what you chose to build and why. 
+Es un juego que consiste en colocar tres fichas en línea. Los escogimos porque nos llamó la atención crear la inteligencia artificial de la computadora.
 
 ## Rules
-Describe briefly the rules of the game you chose. 
+.-Gana el primero que lo logre. 
+.-Las fichas están representadas por  “O” y “X”. 
+.-El juego está conformado por dos jugadores, estos pueden ser dos personas o una persona y la computadora. 
 
 ## Workflow
-Outline the workflow you used in your project. What are the steps you went through?
+.-Seleccionar: definir juego a realizar
+.-Asentar Ideas: realizar un diagrama de flujo
+.-Investigar: buscar ejemplos y códigos de otras personas
+.-Código: plasmar las ideas y conocimientos en código
+.-Pulir: comentar el código y sus funciones así como terminar de afinar detalles
 
 ## Organization
-How did you organize your work? Did you use any tools like a trello or kanban board?
-
-What does your repository look like? Explain your folder and file structure.
+Tenemos el archivo Tic-Tac-ToeV4.ipynb que contiene el jupyter notebook del juego. las imágenes .jpg son utilizadas por el juego. Por otro lado, tenemos la carpeta Versiones, donde se encuentran versiones alphas y betas del producto final; en ellas se puede observar el proceso de evolutivo que tuvo el juego.
 
 ## Links
-Include links to your repository, slides and trello/kanban board. Feel free to include any other links associated with your project. 
-
-[Repository](https://github.com/)  
-[Slides](https://slides.com/)  
-[Trello](https://trello.com/en)  
+[Google Slides]https://docs.google.com/presentation/d/1ldGprW_iyk2VpT6Bw45qhCz6uywEwzc_QJHdAGLAL14/edit?usp=sharing
